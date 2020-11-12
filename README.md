@@ -9,3 +9,5 @@ Primero ejecutar `npm start` para iniciar el bundle mediante Metro.
 Luego abrir un emulador con AVD Manager de Android Studio y
 correr el comando `npm run android` la cual abre la aplicación
 en el emulador.
+
+PROYECTO FINAL DE INGENIERIA. APLICACION MOBILE PARA DAPROLAC
