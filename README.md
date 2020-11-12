@@ -10,4 +10,4 @@ Luego abrir un emulador con AVD Manager de Android Studio y
 correr el comando `npm run android` la cual abre la aplicación
 en el emulador.
 
-PROYECTO FINAL DE INGENIERIA. APLICACION MOBILE PARA DAPROLAC
+PROYECTO FINAL DE INGENIERIA. APLICACION MOBILE PARA DAPROLAC. Control de proceso de produccion en productos lacteos
